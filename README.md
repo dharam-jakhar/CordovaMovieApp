@@ -1,6 +1,6 @@
 # CordovaMovieApp
 
-##Made using Cordova and jQuery-mobile.
+## Made using Cordova and jQuery-mobile.
 
 It is an android application to show movie names and their descriptions.
 
