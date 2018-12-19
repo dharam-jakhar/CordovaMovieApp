@@ -1,6 +1,9 @@
 # CordovaMovieApp
 
 ## Made using Cordova and jQuery-mobile.
+#### Team members: -
+##### 1. Dharam Jakhar
+##### 2. Sujal Patel
 
 This is an android application which shows movie names and their descriptions.
 
